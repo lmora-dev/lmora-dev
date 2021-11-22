@@ -13,11 +13,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  | C# 
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | C# 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; Firebase | OracleSQL | Microsfot SQL
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- ☁ &nbsp; GCP | Azure
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Photoshop
 
 <h3>💡 Goals for 2022 </h3>
 - Become skilled in JavaScript
