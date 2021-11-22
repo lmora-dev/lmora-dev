@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
 - 🏋 Fitness, healthy body and mind!
 - 👺 Cosplayer
 - 🍜 Otaku
