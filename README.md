@@ -16,9 +16,10 @@
 - 🛢 &nbsp; Firebase | OracleSQL | Microsfot SQL
 - ☁ &nbsp; GCP | Azure
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Photoshop
+- 🖥 &nbsp; Linux Manjaro | Windows 10
 
 <h3>💡 Goals for 2022 </h3>
+- Become skilled in JavaScript
 - Become skilled in JavaScript
 
 <hr>
