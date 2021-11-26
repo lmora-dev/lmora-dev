@@ -8,14 +8,15 @@
 - 🏋 Fitness, healthy body and mind!
 - 👺 Cosplayer
 - 🍜 Otaku
+- 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# 
+- 💻 &nbsp; Python | C# | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; Firebase | OracleSQL | Microsfot SQL
+- 🛢 &nbsp; Oracle SQL | Firebase | Microsoft SQL
 - ☁ &nbsp; GCP | Azure
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git |
 - 🖥 &nbsp; Linux Manjaro | Windows 10
 
 <h3>💡 Goals for 2022 </h3>
