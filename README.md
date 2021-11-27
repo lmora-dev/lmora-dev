@@ -20,8 +20,7 @@
 - 🖥 &nbsp; Linux Manjaro | Windows 10
 
 <h3>💡 Goals for 2022 </h3>
-- Become skilled in JavaScript
-- Become skilled in Backend
+- Become skilled in fullstack developer
 
 <hr>
 <h3>  ☕ Connect with Me</h3>
