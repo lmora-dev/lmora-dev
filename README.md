@@ -16,12 +16,12 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; Oracle SQL | Firebase | Microsoft SQL
 - ☁ &nbsp; GCP | Azure
-- 🔧 &nbsp; Visual Studio code | Git |
+- 🔧 &nbsp; Visual Studio code | Git | Unity
 - 🖥 &nbsp; Linux Manjaro | Windows 10
 
 <h3>💡 Goals for 2022 </h3>
 - Become skilled in JavaScript
-- Become skilled in JavaScript
+- Become skilled in Backend
 
 <hr>
 <h3>  ☕ Connect with Me</h3>
