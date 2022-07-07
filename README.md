@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌎 From Chile with love
-- 🔭 I’m currently learning on Azure
+- 🔭 I’m currently learning blender, and terraform skills
 - 💬 Working on an interview bot (Spanish)
 - 🏋 Fitness, healthy body and mind!
 - 👺 Cosplayer
@@ -20,7 +20,8 @@
 - 🖥 &nbsp; Linux Manjaro | Windows 10
 
 <h3>💡 Goals for 2022 </h3>
-- Become skilled in fullstack developer
+- Become skilled in terraform
+- Become skilled in Docker and kubernetes
 
 <hr>
 <h3>  ☕ Connect with Me</h3>
