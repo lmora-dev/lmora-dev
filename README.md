@@ -1,27 +1,25 @@
-### Hi there, I'm Luis, but please tell me 'Ali' 👋
+### Hi there, I'm Aladdin, but please tell me 'Ali' 👋
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌎 From Chile with love
-- 🔭 I’m currently learning blender, and terraform skills
-- 💬 Working on an interview bot (Spanish)
+- 🔭 I’m currently learning Godot
+- 💬 Working in a game in my free time
 - 🏋 Fitness, healthy body and mind!
 - 👺 Cosplayer
-- 🍜 Otaku
-- 
+- ⚙️3D printing things
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; Oracle SQL | Firebase | Microsoft SQL
 - ☁ &nbsp; GCP | Azure
-- 🔧 &nbsp; Visual Studio code | Git | Unity
-- 🖥 &nbsp; Linux Manjaro | Windows 10
+- 💻 &nbsp; Python | C# | Java 
+- 🔧 &nbsp; Visual Studio code | Git | Terraorm | Docker | CMD
+- 🖥 &nbsp; Linux | Windows | MacOS  (Hobbies, play, work)
+- 🎮 &nbsp; <s> Unity </s> | Godot 4
 
-<h3>💡 Goals for 2022 </h3>
-- Become skilled in terraform
-- Become skilled in Docker and kubernetes
+<h3>💡 Goals for 2025-26 </h3>
+- Add certificates in Azure and oracle
+- Present Demo game
 
 <hr>
 <h3>  ☕ Connect with Me</h3>
