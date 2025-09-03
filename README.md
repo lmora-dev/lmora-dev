@@ -24,4 +24,4 @@
 <hr>
 <h3>  ☕ Connect with Me</h3>
 
-[![Email](https://img.shields.io/badge/lmora.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lmora.dev@gmail.com) [![Linkedin](https://img.shields.io/badge/-Luis%20Mora-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lmora-dev/)](https://www.linkedin.com/in/lmora-dev/)
+[![Email](https://img.shields.io/badge/lmora.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lmora.dev@gmail.com) [![Linkedin](https://img.shields.io/badge/-Aladdin%20Mora-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lmora-dev/)](https://www.linkedin.com/in/lmora-dev/)
